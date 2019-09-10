@@ -1,2 +1,2 @@
 # python_data_science
-compilations of ds competition codes and tutorials
+compilation of ds competition codes and tutorials
